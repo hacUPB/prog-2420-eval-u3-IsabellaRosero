@@ -2,6 +2,7 @@
 # Unidad 3
 ---
 ## Documentación del proyecto
-Nombre:  
-ID:  
+Nombre: Isabella Rosero Montezuma 
+ID:  000505216
 ---
+link de documento de sustentación: https://docs.google.com/document/d/1gdjR3KIaaOn5w-wy-dmKroKPHUEqlZa7GOATh4wnKA8/edit?usp=sharing 
